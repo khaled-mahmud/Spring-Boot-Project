@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Nov 24 01:42:37 BDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-99c9-9dc7-000004833438 
+on database directory memory:/home/khaled/Documents/Arif/Spring-Boot-Project/student-service/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1affbebc 
+Loaded from file:/home/khaled/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+user.dir=/home/khaled/Documents/Arif/Spring-Boot-Project/student-service
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-36-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Nov 24 01:59:56 BDT 2019:
+Shutting down instance a816c00e-016e-99c9-9dc7-000004833438 on database directory memory:/home/khaled/Documents/Arif/Spring-Boot-Project/student-service/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1affbebc 
